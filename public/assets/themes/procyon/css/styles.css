@@ -59,7 +59,7 @@ body {
   color: #212529;
   text-align: left;
   overflow-x: hidden;
-  background-color: #fff; }
+  background-color: #f5efe2; }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
